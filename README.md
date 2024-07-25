@@ -1,2 +1,2 @@
 
-[Download Resum Slawomir Stec pdf](SlawomirStec.pdf)
+[Download Resum Slawomir Stec pdf](https://raw.githubusercontent.com/stokilo/resume/main/SlawomirStec.pdf)
